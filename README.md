@@ -3,7 +3,7 @@
 <h2>Cyber Security Projects:</h2>
 
 - [SIEM Implementation in AWS/Azure](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
 
 <h2>My LinkedIn:</h2>
 
