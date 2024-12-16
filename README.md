@@ -2,8 +2,8 @@
 
 <h2>Cyber Security Projects:</h2>
 
-- [SIEM Implementation in AWS/Azure](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
-- [Active Directory Home Lab](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
+- <a href="https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure" target="_blank">SIEM Implementation in AWS/Azure</a>
+- <a href="https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab" target="_blank">Active Directory Home Lab</a>
 
 <h2>My LinkedIn:</h2>
 
