@@ -1,6 +1,6 @@
 <h1>Hi!, I'm Mohammad and welcome to my portfolio</h1>
 
-<h2>Cyber Security Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - [SIEM Implementation in AWS/Azure](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
 - [Active Directory Home Lab](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
