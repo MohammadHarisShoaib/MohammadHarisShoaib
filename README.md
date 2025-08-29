@@ -5,6 +5,12 @@
 - [SIEM Implementation in AWS/Azure](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
 - [Active Directory Home Lab](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
 
+<h2>Certifications:</h2>
+
+- [SIEM Implementation in AWS/Azure](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
+- [Active Directory Home Lab](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
+
+
 <h2>My LinkedIn:</h2>
 
 <a href="https://www.linkedin.com/in/mohammd-haris-shoaib-316003293/" target="_blank">
