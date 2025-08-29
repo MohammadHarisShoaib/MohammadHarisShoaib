@@ -15,6 +15,6 @@ Verification: https://www.credly.com/badges/d56c620e-c777-4911-bcb5-d95a586dcd00
 <img src="https://i.imgur.com/sRjQx26.png" height="50%" width="50%" alt="Google Cybersecurity Professional"/>
 Verification: https://www.coursera.org/account/accomplishments/professional-cert/YTOYGC6F0EPZ
 
-
+<h3>Lets Connect</h3>
 LinkedIn:<a href="https://www.linkedin.com/in/mohammad-haris-shoaib-316003293" target="_blank">My LinkedIn</a>
-
+Email:<a href="mailto:mohammad.haris.shoaib@gmail.com" target="_blank">My Email</a>
