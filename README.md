@@ -8,11 +8,11 @@
 <h2>Certifications:</h2>
 
 <h3>CompTIA Security+</h3>
-<img src="https://i.imgur.com/lXwHQIb.png" height="80%" width="80%" alt="CompTIA Security+"/>
+<img src="https://i.imgur.com/lXwHQIb.png" height="50%" width="50%" alt="CompTIA Security+"/>
 Verification: https://www.credly.com/badges/d56c620e-c777-4911-bcb5-d95a586dcd00
 
 <h3>Google Cybersecurity Professional</h3>
-<img src="https://i.imgur.com/sRjQx26.png" height="80%" width="80%" alt="Google Cybersecurity Professional"/>
+<img src="https://i.imgur.com/sRjQx26.png" height="50%" width="50%" alt="Google Cybersecurity Professional"/>
 Verification: https://www.coursera.org/account/accomplishments/professional-cert/YTOYGC6F0EPZ
 
 
