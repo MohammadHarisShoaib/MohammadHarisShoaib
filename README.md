@@ -18,6 +18,6 @@ Verification: https://www.coursera.org/account/accomplishments/professional-cert
 
 <h2>My LinkedIn:</h2>
 
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B91fkoNg8TXOplPMoigruGQ%3D%3D" target="_blank">
+<a href="www.linkedin.com/in/mohammad-haris-shoaib-316003293" target="_blank">
     <img align="left" alt="Mohammad Haris Shoaib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
