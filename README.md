@@ -18,4 +18,4 @@ Verification: https://www.coursera.org/account/accomplishments/professional-cert
 <h3>Lets Connect</h3>
 LinkedIn:<a href="https://www.linkedin.com/in/mohammad-haris-shoaib-316003293">My LinkedIn</a>
 <br>
-Email:<a href="mailto:mohammad.haris.shoaib@gmail.com">My Email</a>
+Email: mohammad.haris.shoaib@gmail.com
