@@ -7,8 +7,8 @@
 
 <h2>Certifications:</h2>
 
-- [SIEM Implementation in AWS/Azure](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
-- [Active Directory Home Lab](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
+- [CompTIA Security+](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
+- [Google Cybersecurity Professional](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
 
 
 <h2>My LinkedIn:</h2>
