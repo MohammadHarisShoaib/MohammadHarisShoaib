@@ -10,7 +10,9 @@
 <h3>CompTIA Security+</h3>
 <img src="https://i.imgur.com/5bRMV9T.png" height="50%" width="50%" alt="CompTIA Security+"/>
 Verification Code (CompTIA): BMXVPZMQ711EKDFJ
+<br>
 Vertification (CompTIA): http://verify.CompTIA.org
+<br>
 Verification (Credly): https://www.credly.com/badges/d56c620e-c777-4911-bcb5-d95a586dcd00
 
 <h3>Google Cybersecurity Professional</h3>
