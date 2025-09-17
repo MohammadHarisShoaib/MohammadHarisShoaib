@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [SIEM Implementation in AWS/Azure](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
+- [SIEM Implementation in Azure](https://github.com/MohammadHarisShoaib/SIEM-Implementation-in-AWS-Azure)
 - [Active Directory Home Lab](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
 
 <h2>Certifications:</h2>
