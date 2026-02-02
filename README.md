@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/MohammadHarisShoaib/ActiveDirectoryHomeLab)
-- [Analysis of live and pcap traffic](https://academy.hackthebox.com/achievement/261210/81)
+- [Analysis of Live and Pcap Traffic](https://academy.hackthebox.com/achievement/261210/81)
 
 <h2>Certifications:</h2>
 
